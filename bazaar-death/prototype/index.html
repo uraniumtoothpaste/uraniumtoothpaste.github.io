@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<title>Prototype Version 2</title>
+<meta charset="utf-8">
+<textarea id="source">
+  class: middle
+  # Launch a Server
+  'cause this pony don't prance on `file://`  
+  don't know how?
+  read the [README](../../software-and-apps/preliminary-suggestions.html#server)
+</textarea>
+
+<link rel="stylesheet" href="assets/master.css" type="text/css" media="screen">
+<script src="assets/remark-latest.min.js"></script>
+
+<script>
+function remarkHTTP() {
+  console.log("running on HTTP");
+  var slideshow = remark.create({
+    sourceUrl: 'script-draft.md',
+    ratio: '16:9',
+    navigation: {
+      click: false
+    },
+    countIncrementalSlides: false
+  });
+}
+function remarkFILE() {
+  var slideshow = remark.create();
+  console.log("running on file://")
+  console.log("using the contents of #source")
+}
+
+switch(window.location.protocol) {
+   case 'http:':
+   case 'https:':
+     //remote file over http or https
+     remarkHTTP();
+     break;
+   case 'file:':
+     //local file
+     remarkFILE();
+     break;
+   default: 
+     //some other protocol
+}
+
+</script>
+<script src="assets/game-logic.js"></script>

@@ -1,0 +1,46 @@
+#source { display: none; }
+
+.remark-slide,
+.remark-slide-content {
+  background-color:#17151f;
+}
+
+.remark-slide-content {
+  color:hsl(250, 49%, 69%);
+}
+.remark-slide-content * {
+  box-sizing: border-box;
+}
+a {
+  color:hsl(218, 96%, 73%);
+}
+
+
+.text,
+p:last-of-type
+{
+  color:white; 
+  background-color:hsla(0, 0%, 0%, 0.8);
+  font-size: 3vw;
+  
+  min-height: 30vh;
+  margin:0;
+  padding:2vw 3vw;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.q p:last-of-type:before { content:'\201c';}
+.q p:last-of-type:after { content:'\201d';}
+
+#goat:before {
+  content:'lol';
+  font-size:50px;
+}
+
+.player:before {
+  content:'player';
+  font-size:50px;
+}
+
