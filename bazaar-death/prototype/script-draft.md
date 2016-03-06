@@ -152,7 +152,7 @@ class: label
 .smoke.air[]
 .goat.enthusiastic[]
 
-*Goat*
+*Abracadabra*
 Shalom!
 
 
@@ -179,7 +179,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 Yoooo, 
 --
 man, 
@@ -192,7 +192,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 We out here givin’ the world to folks who ain’t ever seen it.
 
 ---
@@ -201,7 +201,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 People jus’ 
 --
 sittin’ at home, 
@@ -231,7 +231,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 What’s the rush? 
 ---
 
@@ -239,7 +239,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 YOOOOOOOO, 
 ---
 class: label 
@@ -247,35 +247,35 @@ class: label
 .goat[]
 
 
-*Goat*
+*Abracadabra*
 last night…
 ---
 class: label 
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 I gotta old man…
 ---
 class: label 
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 who wanna butter me up…
 ---
 class: label 
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 _in his basement…_
 ---
 class: label 
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 or some shit. 
 
 ---
@@ -284,7 +284,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 He got this fucka shakin’. 
 --
 LOL
@@ -302,7 +302,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 MAN, LISTEN,
 
 ---
@@ -311,7 +311,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 MAN, LISTEN, LISTEN…  
 
 ---
@@ -320,7 +320,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 MAN, LISTEN, LISTEN… *LISTEN.*
 
 ---
@@ -329,7 +329,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 It don’t have to be old men. 
 
 ---
@@ -338,7 +338,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 Look around you at all this shit. 
 
 ---
@@ -347,7 +347,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 Aren’t you worried about leavin’ somethin’ behind? 
 
 ---
@@ -356,7 +356,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 First you gotta decide if it’s the right decision.
 
 ---
@@ -365,7 +365,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 Convenience will fuck yo’ shit up, man. 
 
 ---
@@ -374,7 +374,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 CHEA. 
 
 ---
@@ -396,7 +396,7 @@ class: label
 
 .goat[]
 
-*Goat*
+*Abracadabra*
 Namaste!
 
 
