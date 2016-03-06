@@ -1,4 +1,4 @@
-#source { display: none; }
+#source, video { display: none; }
 
 .remark-slide,
 .remark-slide-content {
@@ -7,6 +7,7 @@
 
 .remark-slide-content {
   color:hsl(250, 49%, 69%);
+  padding: 0;
 }
 .remark-slide-content * {
   box-sizing: border-box;
@@ -15,15 +16,28 @@ a {
   color:hsl(218, 96%, 73%);
 }
 
+.gbg {
+  background-repeat: repeat;
+}
 
+.p.remark-slide-content > *:nth-last-child(2):before,
+.p .say:before {
+  content:'\bb  ';
+}
+.p.remark-slide-content > *:nth-last-child(2):after,
+.p .say:after {
+  content:' \ab';
+}
+.remark-slide-content > *:nth-last-child(2),
 .text,
-p:last-of-type
+.content,
+.say
 {
   color:white; 
   background-color:hsla(0, 0%, 0%, 0.8);
   font-size: 3vw;
   
-  min-height: 30vh;
+  min-height: 25%;
   margin:0;
   padding:2vw 3vw;
   position: absolute;
@@ -31,16 +45,66 @@ p:last-of-type
   left: 0;
   width: 100%;
 }
-.q p:last-of-type:before { content:'\201c';}
-.q p:last-of-type:after { content:'\201d';}
-
-#goat:before {
-  content:'lol';
-  font-size:50px;
+.say > * {
+  margin:0;
+  padding:0;
 }
+
+
+.remark-slide-content.label > *:nth-last-child(2) > :first-child {
+  color:darkgoldenrod;
+  background-color:hsla(0, 0%, 0%, 0.8);
+  line-height: 1;
+  
+  position: absolute;
+  top:-2em;
+  left:0;
+  
+  padding:0.5em 1em;
+}
+
+
+.say.enthusiastic  {
+  
+}
+
+.say.goat:before {
+  content:'Goat';
+  color:mediumpurple;
+}
+.q:before { content:'\201c';}
+.q:after { content:'\201d';}
+
 
 .player:before {
   content:'player';
   font-size:50px;
 }
 
+
+
+.goat {
+  position: absolute;
+  bottom:-10%;
+  right:20%;
+  
+  width: 20%;
+  height: 100%;
+  
+  background-image: url(i/goat.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+
+
+
+
+
+#slide-end h1 {
+  bottom:50%;
+  margin-bottom:-15%;
+  font-size:9vw;
+  color: #7cceb2;
+}
