@@ -80,7 +80,7 @@ h1 + p,
   border: 2px solid;
   border-radius: 6px;
 
-  text-transform: capitalize;;
+  text-transform: capitalize;
 }
   h1#narrator, h1#n {
     display: none;
