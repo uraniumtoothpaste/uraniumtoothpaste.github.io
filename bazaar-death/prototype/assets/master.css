@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,700italic,400italic);
 
-#source, video { display: none; }
+#source, video, audio { display: none; }
 
 .remark-slide,
 .remark-slide-content {
