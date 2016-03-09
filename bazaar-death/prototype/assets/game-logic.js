@@ -31,4 +31,4 @@ function preload(sources)
    });
 }
 
-preload(imgs);
+// preload(imgs);
