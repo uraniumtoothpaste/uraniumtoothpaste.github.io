@@ -1,7 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700,700italic,400italic);
+
 #source, video { display: none; }
 
 .remark-slide,
 .remark-slide-content {
+  font-family:'PT Sans', Sans-Serif;
   background-color:#17151f;
 }
 
