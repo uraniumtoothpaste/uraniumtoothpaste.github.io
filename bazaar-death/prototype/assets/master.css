@@ -28,18 +28,20 @@ a {
 .p .say:after {
   content:' \ab';
 }
+h1 + p,
 .remark-slide-content > *:nth-last-child(2),
 .text,
 .content,
 .say
 {
-  color:white; 
+  color:white;
   background-color:hsla(0, 0%, 0%, 0.8);
   font-size: 3vw;
-  
+
   min-height: 25%;
   margin:0;
-  padding:2vw 3vw;
+  padding:2vw 3.5vw;
+  padding-top: 3.5vw;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -50,22 +52,55 @@ a {
   padding:0;
 }
 
-
+.remark-slide-content h1,
 .remark-slide-content.label > *:nth-last-child(2) > :first-child {
+  font-size: 3vw;
   color:darkgoldenrod;
-  background-color:hsla(0, 0%, 0%, 0.8);
+  background-color:hsla(0, 0%, 0%, 1);
   line-height: 1;
-  
+
   position: absolute;
   top:-2em;
   left:0;
-  
+
   padding:0.5em 1em;
 }
+.remark-slide-content h1 {
+  bottom:25%;
+  top:auto;
+  left: 1vw;
+  padding:.75vw 2.25vw;
+  margin: 0;
+  margin-bottom: -.5em;
+  z-index: 2;
 
+  border: 2px solid;
+  border-radius: 6px;
 
+  text-transform: capitalize;;
+}
+  h1#narrator, h1#n {
+    display: none;
+  }
+  h1#elieen, h1#e {
+    color: #71c298;
+  } h1#e::after { content:'lieen' }
+  h1#hiromi, h1#h {
+    color: #6f84c2;
+  } h1#h:after { content:'iromi' }
+
+.eh {
+  background-image: url(i/eh.png);
+  background-size: contain;
+  image-rendering: pixelated;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 75%;
+}.eh-alone .eh { background-image: url(i/eh-alone.png); }
 .say.enthusiastic  {
-  
+
 }
 
 .say.goat:before {
@@ -87,10 +122,10 @@ a {
   position: absolute;
   bottom:-10%;
   right:20%;
-  
+
   width: 20%;
   height: 100%;
-  
+
   background-image: url(i/goat.png);
   background-size: contain;
   background-repeat: no-repeat;
