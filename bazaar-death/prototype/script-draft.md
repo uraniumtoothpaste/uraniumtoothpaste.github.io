@@ -350,9 +350,9 @@ class: label
 .goat[]
 
 *Abracadabra*
-Yoooo,
+Yoooo, 
 --
-man,
+man, 
 --
 why would you want to?
 
@@ -372,9 +372,9 @@ class: label
 .goat[]
 
 *Abracadabra*
-People jus’
+People jus’ 
 --
-sittin’ at home,
+sittin’ at home, 
 --
 eatin’ cereal err’day.
 
@@ -385,11 +385,11 @@ class: p
 
 …
 --
-I just
+I just 
 --
-*really*
+*really* 
 --
-need to get
+need to get 
 --
 *back* to my hotel
 --
@@ -455,7 +455,7 @@ class: label
 .goat[]
 
 *Abracadabra*
-He got this fucka shakin’.
+He got this fucka shakin’. 
 --
 LOL
 

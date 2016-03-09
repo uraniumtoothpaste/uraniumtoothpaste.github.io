@@ -39,7 +39,7 @@ h1 + p,
 {
   color:white;
   background-color:hsla(0, 0%, 0%, 0.8);
-  font-size: 3vw;
+  font-size: 2rem;
 
   min-height: 25%;
   margin:0;
@@ -57,7 +57,7 @@ h1 + p,
 
 .remark-slide-content h1,
 .remark-slide-content.label > *:nth-last-child(2) > :first-child {
-  font-size: 3vw;
+  font-size: 2rem;
   color:darkgoldenrod;
   background-color:hsla(0, 0%, 0%, 1);
   line-height: 1;
@@ -143,6 +143,6 @@ h1 + p,
 #slide-end h1 {
   bottom:50%;
   margin-bottom:-15%;
-  font-size:9vw;
+  font-size:6rem;
   color: #7cceb2;
 }
