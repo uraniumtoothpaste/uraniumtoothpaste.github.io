@@ -32,7 +32,7 @@ I feel miles high!
 "…But kisses and hugs?"
 ---
 
-Laughing, the two of you hold each other steady.
+Laughing, the two hold each other steady.
 
 ---
 # H
@@ -113,7 +113,7 @@ Lets speak of other things...
 Things like that cutie who appritinced to Koram's shop?
 ---
 # narrator
-Elieen hits you on the shoulder
+Elieen smacks Hiromi on the shoulder
 ---
 # E
 No! Not things like that!
@@ -128,7 +128,7 @@ Spill girl! Spill!
 We need you to check the pig iron before we box it.
 ---
 # H
-You turn to your sister, “Duty calls.”
+Hiromi turn to her sister, “Duty calls.”
 ---
 
 Forlorn glances are exchanged.
