@@ -2,8 +2,8 @@
 
 
 ## TODO: 
-- [ ] CSS
+- [x] CSS
 - [ ] Pages
-  - [ ] Home
+  - [x] Home
   - [ ] Team
-  - [ ] Projects
+  - [x] Projects
