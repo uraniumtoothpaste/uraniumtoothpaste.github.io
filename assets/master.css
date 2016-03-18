@@ -1,0 +1,8 @@
+body {
+  /* core */
+  max-width:60ex;
+  margin:0 auto;
+  padding:1em 1.5em;
+  
+  font-size:18pt;
+}
